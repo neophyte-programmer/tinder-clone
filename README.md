@@ -4,7 +4,7 @@ This is a clone of the Tinder app. It is a project that I am using to learn the 
 ## Resources
 - [Material UI](https://mui.com/)
 ## Technologies Used
--[React](https://reactjs.org/)
+- [React](https://reactjs.org/)
 
 ## Live Demo
 
