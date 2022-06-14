@@ -1,5 +1,5 @@
 import React from 'react'
-import 'SwipeButtons.css'
+import './SwipeButtons.css'
 
 const SwipeButtons = () => {
   return (
