@@ -3,7 +3,7 @@ import './TinderCards.css'
 
 import billie from '../../images/billie.jpg'
 import mBJordan from '../../images/m-b-jordan.webp'
-import zendaya from '../../images/zendaya.webp'
+import zendaya from '../../images/zendaya.png'
 import chris from '../../images/chris.jpg'
 import jackson from '../../images/jackson.webp'
 
@@ -58,7 +58,8 @@ const TinderCards = () => {
               <div className='card__image'>
                 <img src={person.image} alt={person.name} />
               </div>
-              {person.name}
+              <h3 className='card__name'>{person.name}</h3>
+              
             </div>
           </TinderCard>
 				))}
